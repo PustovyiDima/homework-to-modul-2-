@@ -1,9 +1,7 @@
 body{
 	background: #D4A2A2;
+	font-family: sans-serif;
 }
-div{
-		width:600px;
-	}
 .zero{text-decoration: underline;}
 .l1{background-color: red;
 	width: 100px;
@@ -53,7 +51,7 @@ div{
 }
 .nine{
 	background-color: white;
-	width: 450px;
+	width: 460px;
 	border-style: dashed;
 	border-width: 3px;
 }
