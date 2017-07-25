@@ -1,0 +1,63 @@
+body{
+	background: #D4A2A2;
+}
+div{
+		width:600px;
+	}
+.zero{text-decoration: underline;}
+.l1{background-color: red;
+	width: 100px;
+	}
+.l2{background-color: blue;
+	width: 200px;
+	height: 50px;
+	}
+.l3{background-color: yellow;
+	width: 200px;
+	height: 50px;
+	}
+
+
+.one {width: 100px;
+	height: 50px;
+	background-color: red;
+		}
+.two {width: 150px;
+	height: 50px;
+	background-color: #F9952A
+	}
+.three {width: 200px;
+	height: 50px;
+	background-color: blue;
+	}
+.four {width: 150px;
+	background-color: #F16A21;
+	text-align: center;
+	vertical-align: middle;
+	padding: 10px;
+}
+.Ex{
+	background-color:  #D6D7BE;
+	}
+.five{
+	color: #522601;
+}
+.six{
+	color: #000000;
+}
+.seven{
+	color: #875327;
+}
+.eight{
+	color: #285501;
+}
+.nine{
+	background-color: white;
+	width: 450px;
+	border-style: dashed;
+	border-width: 3px;
+}
+.blue{color: blue;
+}
+.red{color: red;
+}
