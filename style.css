@@ -1,61 +1,87 @@
-body{
+body
+{
 	background: #D4A2A2;
 	font-family: sans-serif;
 }
-.zero{text-decoration: underline;}
-.l1{background-color: red;
-	width: 100px;
-	}
-.l2{background-color: blue;
-	width: 200px;
-	height: 50px;
-	}
-.l3{background-color: yellow;
-	width: 200px;
-	height: 50px;
-	}
-
-
-.one {width: 100px;
-	height: 50px;
+.zero
+{
+	text-decoration: underline;
+}
+.l1
+{
 	background-color: red;
-		}
-.two {width: 150px;
-	height: 50px;
-	background-color: #F9952A
-	}
-.three {width: 200px;
-	height: 50px;
+	width: 100px;
+}
+.l2
+{
 	background-color: blue;
-	}
-.four {width: 150px;
+	height: 50px;
+	width: 200px;
+}
+.l3
+{
+	background-color: yellow;
+	height: 50px;
+	width: 200px;
+}
+.one
+{
+	background-color: red;
+	height: 50px;
+	width: 100px;
+}
+.two
+{
+	background-color: #F9952A;
+	height: 50px;
+	width: 150px;
+}
+.three
+{
+	background-color: blue;
+	height: 50px;
+	width: 200px;
+}
+.four
+{
 	background-color: #F16A21;
+	padding: 10px;
 	text-align: center;
 	vertical-align: middle;
-	padding: 10px;
+	width: 150px;
 }
-.Ex{
-	background-color:  #D6D7BE;
-	}
-.five{
+.Ex
+{
+	background-color: #D6D7BE;
+}
+.five
+{
 	color: #522601;
 }
-.six{
+.six
+{
 	color: #000000;
 }
-.seven{
+.seven
+{
 	color: #875327;
 }
-.eight{
+.eight
+{
 	color: #285501;
 }
-.nine{
+.nine
+{
 	background-color: white;
-	width: 460px;
 	border-style: dashed;
 	border-width: 3px;
+	width: 460px;
 }
-.blue{color: blue;
+.blue
+{
+	color: blue;
 }
-.red{color: red;
+.red
+{
+	color: red;
 }
